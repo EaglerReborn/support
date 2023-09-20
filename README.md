@@ -1,2 +1,2 @@
-# support
-get support for Eagler Reborn
+# EaglerReborn support
+Get support for Eagler Reborn
